@@ -1,0 +1,4 @@
+id : 0
+username : hoang
+content : hi lan thu 3
+comment_id : 0
